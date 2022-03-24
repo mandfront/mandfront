@@ -20,13 +20,7 @@
    
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandfront&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  ##
-  
- 
-
-  ##
-  
+   
   <div> 
 
  
