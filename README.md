@@ -32,5 +32,5 @@
  
 </div>
   
-  ![Snake animation](https://github.com/mandfront/mandfront/blob/output/github-contribution-grid-snake.svg)
+  
 
