@@ -1,7 +1,6 @@
 ### Olá! Me chamo Amanda Caraça 👋
 
 - 🔭  Trabalhando como front-end
-- 🌱  Me aprofundando cada dia mais em ReactJs/TypeScript/ReactNative
 - 😄 Pronouns: Ela/Dela
 
  <div style="display: inline_block"><br>
