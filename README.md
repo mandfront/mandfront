@@ -3,7 +3,7 @@
 - 🔭  Trabalhando como front-end
 - 🌱  Me aprofundando cada dia mais em ReactJs/TypeScript/ReactNative
 - 😄 Pronouns: Ela/Dela
-
+<!-- 
  <div style="display: inline_block"><br>
   <img align="center" alt="Mand-Js" height="30" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mand-Ts" height="30" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,7 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandfront&layout=compact&langs_count=7&theme=dark"/>
 
  
-</div>
+</div> -->
   
   
 
