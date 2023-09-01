@@ -1,7 +1,9 @@
 ### Olá! Me chamo Amanda Caraça 👋
 
 - 🔭  Trabalhando como front-end
+- 🌱 Estou me aprofundando em React e TypeScript.
 - 😄 Pronouns: Ela/Dela
+  
 <div style="padding-left: 0px; margin-left: 0; display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/ThiagoIturra">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=mandfront&show_icons=true&theme=blueberry"/>
@@ -18,7 +20,7 @@
 ##
 
 <div style="padding-top: 100px">
-  <a href ="mailto:amandacaraca.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a align="center" href ="mailto:amandacaraca.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
 <!-- <div align="center">
