@@ -5,7 +5,7 @@
 <div style="padding-left: 0px; margin-left: 0; display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/ThiagoIturra">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=mandfront&show_icons=true&theme=blueberry"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandfront&layout=donut&langs_count=7&theme=blueberry"/> 
+<!--   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandfront&layout=donut&langs_count=7&theme=blueberry"/>  -->
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Mand-Ts" height="30" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
