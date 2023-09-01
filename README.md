@@ -14,7 +14,8 @@
   <img align="center" alt="Mand-CSS" height="30" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Mand-Js" height="30" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
+    
+##
 <div style="padding-top: 100px">
   <a href ="mailto:amandacaraca.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
