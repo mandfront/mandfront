@@ -1,7 +1,8 @@
 ### Olá! Me chamo Amanda Caraça 👋
 
 - 🔭  Trabalhando como front-end
-- 🌱 linguagens dominantes React, TypeScript e next.
+- 🌱 linguagens dominantes: React, TypeScript e next.
+- 📫 estou me apronfundando em Flutter 
 - 😄 Pronouns: Ela/Dela
   
 <div style="padding-left: 0px; margin-left: 0; display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
