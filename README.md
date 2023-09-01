@@ -1,7 +1,7 @@
 ### Olá! Me chamo Amanda Caraça 👋
 
 - 🔭  Trabalhando como front-end
-- 🌱 Estou me aprofundando em React e TypeScript.
+- 🌱 linguagens dominantes React, TypeScript e next.
 - 😄 Pronouns: Ela/Dela
   
 <div style="padding-left: 0px; margin-left: 0; display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
