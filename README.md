@@ -3,7 +3,7 @@
 - 🔭  Trabalhando como front-end
 - 🌱 linguagens dominantes: React, TypeScript e next.
 - 📫 estou me apronfundando em Flutter 
-- 😄 Pronouns: Ela/Dela
+- 😄 Soft Skills: sou comunicativa e procuro sempre o aprimoramento pessoal e da equipe por meio de comunicação e entrosamento
   
 <div style="padding-left: 0px; margin-left: 0; display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/ThiagoIturra">
