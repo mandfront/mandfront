@@ -48,8 +48,7 @@ Desenvolvedora **Front-End Sênior** com quase 7 anos construindo aplicações w
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mandfront&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=7F5AF0&icon_color=2CB67D" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandfront&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&title_color=7F5AF0" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandfront&theme=tokyonight" alt="Resumo do perfil no GitHub" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mandfront&hide_border=true&theme=tokyonight&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&locale=pt_BR" alt="Sequência de contribuições" />
